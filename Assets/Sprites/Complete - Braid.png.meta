@@ -1,0 +1,2204 @@
+fileFormatVersion: 2
+guid: ad616e00c33841e43a4128ccb4121eab
+timeCreated: 1487379121
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Complete - Braid_0
+    21300002: Complete - Braid_1
+    21300004: Complete - Braid_2
+    21300006: Complete - Braid_3
+    21300008: Complete - Braid_4
+    21300010: Complete - Braid_5
+    21300012: Complete - Braid_6
+    21300014: Complete - Braid_7
+    21300016: Complete - Braid_8
+    21300018: Complete - Braid_9
+    21300020: Complete - Braid_10
+    21300022: Complete - Braid_11
+    21300024: Complete - Braid_12
+    21300026: Complete - Braid_13
+    21300028: Complete - Braid_14
+    21300030: Complete - Braid_15
+    21300032: Complete - Braid_16
+    21300034: Complete - Braid_17
+    21300036: Complete - Braid_18
+    21300038: Complete - Braid_19
+    21300040: Complete - Braid_20
+    21300042: Complete - Braid_21
+    21300044: Complete - Braid_22
+    21300046: Complete - Braid_23
+    21300048: Complete - Braid_24
+    21300050: Complete - Braid_25
+    21300052: Complete - Braid_26
+    21300054: Complete - Braid_27
+    21300056: Complete - Braid_28
+    21300058: Complete - Braid_29
+    21300060: Complete - Braid_30
+    21300062: Complete - Braid_31
+    21300064: Complete - Braid_32
+    21300066: Complete - Braid_33
+    21300068: Complete - Braid_34
+    21300070: Complete - Braid_35
+    21300072: Complete - Braid_36
+    21300074: Complete - Braid_37
+    21300076: Complete - Braid_38
+    21300078: Complete - Braid_39
+    21300080: Complete - Braid_40
+    21300082: Complete - Braid_41
+    21300084: Complete - Braid_42
+    21300086: Complete - Braid_43
+    21300088: Complete - Braid_44
+    21300090: Complete - Braid_45
+    21300092: Complete - Braid_46
+    21300094: Complete - Braid_47
+    21300096: Complete - Braid_48
+    21300098: Complete - Braid_49
+    21300100: Complete - Braid_50
+    21300102: Complete - Braid_51
+    21300104: Complete - Braid_52
+    21300106: Complete - Braid_53
+    21300108: Complete - Braid_54
+    21300110: Complete - Braid_55
+    21300112: Complete - Braid_56
+    21300114: Complete - Braid_57
+    21300116: Complete - Braid_58
+    21300118: Complete - Braid_59
+    21300120: Complete - Braid_60
+    21300122: Complete - Braid_61
+    21300124: Complete - Braid_62
+    21300126: Complete - Braid_63
+    21300128: Complete - Braid_64
+    21300130: Complete - Braid_65
+    21300132: Complete - Braid_66
+    21300134: Complete - Braid_67
+    21300136: Complete - Braid_68
+    21300138: Complete - Braid_69
+    21300140: Complete - Braid_70
+    21300142: Complete - Braid_71
+    21300144: Complete - Braid_72
+    21300146: Complete - Braid_73
+    21300148: Complete - Braid_74
+    21300150: Complete - Braid_75
+    21300152: Complete - Braid_76
+    21300154: Complete - Braid_77
+    21300156: Complete - Braid_78
+    21300158: Complete - Braid_79
+    21300160: Complete - Braid_80
+    21300162: Complete - Braid_81
+    21300164: Complete - Braid_82
+    21300166: Complete - Braid_83
+    21300168: Complete - Braid_84
+    21300170: Complete - Braid_85
+    21300172: Complete - Braid_86
+    21300174: Complete - Braid_87
+    21300176: Complete - Braid_88
+    21300178: Complete - Braid_89
+    21300180: Complete - Braid_90
+    21300182: Complete - Braid_91
+    21300184: Complete - Braid_92
+    21300186: Complete - Braid_93
+    21300188: Complete - Braid_94
+    21300190: Complete - Braid_95
+    21300192: Complete - Braid_96
+    21300194: Complete - Braid_97
+    21300196: Complete - Braid_98
+    21300198: Complete - Braid_99
+    21300200: Complete - Braid_100
+    21300202: Complete - Braid_101
+    21300204: Complete - Braid_102
+    21300206: Complete - Braid_103
+    21300208: Complete - Braid_104
+    21300210: Complete - Braid_105
+    21300212: Complete - Braid_106
+    21300214: Complete - Braid_107
+    21300216: Complete - Braid_108
+    21300218: Complete - Braid_109
+    21300220: Complete - Braid_110
+    21300222: Complete - Braid_111
+    21300224: Complete - Braid_112
+    21300226: Complete - Braid_113
+    21300228: Complete - Braid_114
+    21300230: Complete - Braid_115
+    21300232: Complete - Braid_116
+    21300234: Complete - Braid_117
+    21300236: Complete - Braid_118
+    21300238: Complete - Braid_119
+    21300240: Complete - Braid_120
+    21300242: Complete - Braid_121
+    21300244: Complete - Braid_122
+    21300246: Complete - Braid_123
+    21300248: Complete - Braid_124
+    21300250: Complete - Braid_125
+    21300252: Complete - Braid_126
+    21300254: Complete - Braid_127
+    21300256: Complete - Braid_128
+    21300258: Complete - Braid_129
+    21300260: Complete - Braid_130
+    21300262: Complete - Braid_131
+    21300264: Complete - Braid_132
+    21300266: Complete - Braid_133
+    21300268: Complete - Braid_134
+    21300270: Complete - Braid_135
+    21300272: Complete - Braid_136
+    21300274: Complete - Braid_137
+    21300276: Complete - Braid_138
+    21300278: Complete - Braid_139
+    21300280: Complete - Braid_140
+    21300282: Complete - Braid_141
+    21300284: Complete - Braid_142
+    21300286: Complete - Braid_143
+    21300288: Complete - Braid_144
+    21300290: Complete - Braid_145
+    21300292: Complete - Braid_146
+    21300294: Complete - Braid_147
+    21300296: Complete - Braid_148
+    21300298: Complete - Braid_149
+    21300300: Complete - Braid_150
+    21300302: Complete - Braid_151
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Complete - Braid_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1207
+        width: 84
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1207
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1207
+        width: 84
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1207
+        width: 84
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1207
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_5
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1207
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1207
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1207
+        width: 84
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1207
+        width: 84
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1207
+        width: 84
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_10
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1207
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_11
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1207
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_12
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1207
+        width: 81
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_13
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1207
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_14
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1207
+        width: 84
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_15
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1207
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_16
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1207
+        width: 84
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_17
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1207
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_18
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1207
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_19
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1207
+        width: 84
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_20
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1207
+        width: 84
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_21
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1207
+        width: 84
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_22
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1207
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_23
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1207
+        width: 91
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1032
+        width: 123
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1032
+        width: 120
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1030
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_27
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1030
+        width: 115
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_28
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1025
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_29
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1025
+        width: 105
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_30
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1028
+        width: 103
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_31
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1028
+        width: 103
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_32
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1025
+        width: 99
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_33
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1045
+        width: 103
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_34
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1052
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_35
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1055
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_36
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1057
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_37
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1055
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_38
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1050
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_39
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1059
+        width: 125
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_40
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1059
+        width: 126
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_41
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1059
+        width: 125
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 875
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 878
+        width: 96
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 878
+        width: 103
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_45
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 878
+        width: 105
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_46
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 882
+        width: 110
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_47
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 885
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_48
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 885
+        width: 121
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_49
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 882
+        width: 111
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_50
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 880
+        width: 103
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_51
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 885
+        width: 101
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_52
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 882
+        width: 98
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_53
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 878
+        width: 98
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_54
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 873
+        width: 94
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_55
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 875
+        width: 96
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_56
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 878
+        width: 99
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_57
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 878
+        width: 99
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_58
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 878
+        width: 103
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_59
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 880
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 737
+        width: 105
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_61
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 737
+        width: 106
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_62
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 735
+        width: 101
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 733
+        width: 96
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_64
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 735
+        width: 101
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_65
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 735
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_66
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 735
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_67
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 735
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_68
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 737
+        width: 113
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_69
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 706
+        width: 108
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_70
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 706
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_71
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 706
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_72
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 706
+        width: 116
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_73
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 706
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_74
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 794
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_75
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 767
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_76
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 733
+        width: 162
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_77
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 745
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_78
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 737
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_79
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 737
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_80
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 548
+        width: 100
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_81
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 543
+        width: 100
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_82
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 553
+        width: 106
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_83
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 553
+        width: 108
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_84
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 543
+        width: 103
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_85
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 543
+        width: 101
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_86
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 551
+        width: 103
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_87
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 553
+        width: 108
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_88
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 543
+        width: 123
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_89
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 541
+        width: 130
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_90
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 543
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_91
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 546
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_92
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 548
+        width: 115
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_93
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 548
+        width: 116
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_94
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 546
+        width: 113
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_95
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 546
+        width: 113
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_96
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 415
+        width: 236
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_97
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 369
+        width: 106
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_98
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 369
+        width: 104
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_99
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 369
+        width: 106
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_100
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 369
+        width: 106
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_101
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 369
+        width: 105
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_102
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 369
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_103
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 369
+        width: 105
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_104
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 369
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_105
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 369
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_106
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 369
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_107
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 369
+        width: 113
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_108
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 369
+        width: 115
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_109
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 369
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_110
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 369
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_111
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 369
+        width: 116
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_112
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 211
+        width: 108
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_113
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 211
+        width: 113
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_114
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 214
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_115
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 211
+        width: 120
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_116
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 211
+        width: 116
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_117
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 211
+        width: 116
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_118
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 211
+        width: 113
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_119
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 209
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_120
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 209
+        width: 99
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_121
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 204
+        width: 94
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_122
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 206
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_123
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 204
+        width: 116
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_124
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 206
+        width: 118
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_125
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 206
+        width: 118
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_126
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 206
+        width: 110
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_127
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 206
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_128
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 206
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_129
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 206
+        width: 111
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_130
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 32
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_131
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 32
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_132
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 32
+        width: 81
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_133
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 32
+        width: 79
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_134
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 32
+        width: 81
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_135
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 34
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_136
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 34
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_137
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 34
+        width: 84
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_138
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 34
+        width: 86
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_139
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 34
+        width: 91
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_140
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 34
+        width: 86
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_141
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 34
+        width: 89
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_142
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 34
+        width: 84
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_143
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 34
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_144
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_145
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_146
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 44
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_147
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_148
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 44
+        width: 86
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_149
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_150
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Complete - Braid_151
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
